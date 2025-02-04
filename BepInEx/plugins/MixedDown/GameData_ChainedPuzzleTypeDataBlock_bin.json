@@ -354,6 +354,12 @@
       "name": "SecurityScan.ExitTeam",
       "internalEnabled": true,
       "persistentID": 41
+    },
+    {
+       "Prefab": "Assets/AssetPrefabs/Complex/Generic/ChainedPuzzles/CP_Bioscan_Big_RequireAll_Moving.prefab",
+       "name": "MixedDown-MovingTeamScan",
+       "internalEnabled": true,
+       "persistentID": 23
     }
   ],
   "LastPersistentID": 62
