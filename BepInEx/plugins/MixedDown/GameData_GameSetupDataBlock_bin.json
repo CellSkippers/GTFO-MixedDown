@@ -3,16 +3,9 @@
   "Blocks": [
     {
       "RundownIdsToLoad": [
-        32,
-        31,
-        33,
-        34,
-        37,
-        38,
-        41,
-        35
+        19
       ],
-      "StartupScreenToLoad": 3,
+      "StartupScreenToLoad": "StartupScreenData_3",
       "name": "Default",
       "internalEnabled": true,
       "persistentID": 1
