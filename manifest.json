@@ -1,0 +1,14 @@
+{
+    "name": "MixedDown",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/CellSkippers/GTFO-MixedDown",
+    "description": "Good difficulty: short, hard levels",
+    "dependencies": [
+        "BepInEx-BepInExPack_GTFO-3.2.1",
+        "CellSkippers-Parry-1.1.1",
+        "Inas07-ExtraChainedPuzzleCustomization-1.6.7",
+        "dakkhuza-MTFO-4.6.2",
+        "randomuserhi-AggroFix-0.0.2",
+        "tru0067-VanillaReloaded-1.2.0"
+    ]
+}
