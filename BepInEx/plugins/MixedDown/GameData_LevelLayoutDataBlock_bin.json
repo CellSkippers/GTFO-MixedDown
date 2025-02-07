@@ -438,7 +438,7 @@
                             }
                         ]
                     },
-                    "ChainedPuzzleToEnter": 301,
+                    "ChainedPuzzleToEnter": 5,
                     "IsCheckpointDoor": false,
                     "PlayScannerVoiceAudio": true,
                     "SkipAutomaticProgressionObjective": false,
@@ -670,7 +670,7 @@
                             }
                         ]
                     },
-                    "ChainedPuzzleToEnter": 302,
+                    "ChainedPuzzleToEnter": 6,
                     "IsCheckpointDoor": false,
                     "PlayScannerVoiceAudio": true,
                     "SkipAutomaticProgressionObjective": false,
@@ -1402,7 +1402,7 @@
                             }
                         ]
                     },
-                    "ChainedPuzzleToEnter": 301,
+                    "ChainedPuzzleToEnter": 5,
                     "IsCheckpointDoor": false,
                     "PlayScannerVoiceAudio": true,
                     "SkipAutomaticProgressionObjective": false,
@@ -1672,7 +1672,7 @@
                             }
                         ]
                     },
-                    "ChainedPuzzleToEnter": 302,
+                    "ChainedPuzzleToEnter": 6,
                     "IsCheckpointDoor": false,
                     "PlayScannerVoiceAudio": true,
                     "SkipAutomaticProgressionObjective": false,
@@ -1880,6 +1880,7 @@
                         "EnemyGroupsInArea": 0
                     },
                     "EnemySpawningInZone": [
+                       
                     ],
                     "EnemyRespawning": false,
                     "EnemyRespawnRequireOtherZone": true,
@@ -3566,7 +3567,7 @@
                         "PlacementCount": 1,
                         "ZonePlacementData": []
                     },
-                    "ChainedPuzzleToEnter": 306,
+                    "ChainedPuzzleToEnter": 9,
                     "IsCheckpointDoor": false,
                     "PlayScannerVoiceAudio": true,
                     "SkipAutomaticProgressionObjective": false,
@@ -3976,7 +3977,7 @@
                         "PlacementCount": 1,
                         "ZonePlacementData": []
                     },
-                    "ChainedPuzzleToEnter": 305,
+                    "ChainedPuzzleToEnter": 8,
                     "IsCheckpointDoor": false,
                     "PlayScannerVoiceAudio": true,
                     "SkipAutomaticProgressionObjective": false,
@@ -4411,7 +4412,7 @@
                             }
                         ]
                     },
-                    "ChainedPuzzleToEnter": 304,
+                    "ChainedPuzzleToEnter": 7,
                     "IsCheckpointDoor": false,
                     "PlayScannerVoiceAudio": true,
                     "SkipAutomaticProgressionObjective": false,
